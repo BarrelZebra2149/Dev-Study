@@ -13,17 +13,5 @@ properties에 내용을 다음과 같이 변경해 주어야 한다.
 ![img_3.png](img_3.png)
 properties를 사용하지 않고 yml로 변경하여 더 편리하게 사용할 수 있다.
 ![img_5.png](img_5.png)
-
-
-
-
-
-
-
-
-
-
-
-다음과 같이 static-location의 위치를 변경할 수 있다. 
-
-
+다음과 같이 static-location의 위치를 변경할 수 있다.
+![img_6.png](img_6.png)
